@@ -1,5 +1,6 @@
 # Personal Website
-HTML, CSS, and JS Website about myself
+
+A HTML, CSS, and JS Website about myself
 
 
 ## About Me
