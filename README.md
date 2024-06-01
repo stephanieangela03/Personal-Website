@@ -2,7 +2,7 @@
 HTML, CSS, and JS Website about myself
 
 
-# About Me
+## About Me
 
 
 Brief greeting and introduction to the website
@@ -24,7 +24,7 @@ Social media links
 Download CV
 
 
-# Skills
+## Skills
 
 Technical skills
 
@@ -33,7 +33,7 @@ Tools and technologies
 Soft skills
 
 
-# Services
+## Services
 
 Web Development
 
@@ -44,14 +44,14 @@ Data Analysis
 UI/UX Designer
 
 
-# Portfolio
+## Portfolio
 
 Showcase of projects
 
 Project descriptions
 
 
-# Contact & Comments
+## Contact & Comments
 
 Section for feedback and suggestions
 
