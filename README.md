@@ -57,4 +57,4 @@ Section for feedback and suggestions
 
 Invitation for visitor input and interaction
 
-Video Link [Personal Web Demo] (https://www.youtube.com/watch?v=vGLJdaFYJNg)
+Video Link [Personal Web Demo](https://www.youtube.com/watch?v=vGLJdaFYJNg)
